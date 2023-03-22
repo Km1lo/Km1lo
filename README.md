@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/km1lo_" target="blank"><img src="https://img.shields.io/twitter/follow/km1lo_?logo=twitter&style=for-the-badge" alt="km1lo_" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **MySQL**
 
 - 📫 How to reach me **camilo.victor.adama@gmail.com**
 
