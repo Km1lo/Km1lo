@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">Information Systems Engineering student at UPC📚</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=km1lo&label=Profile%20views&color=0e75b6&style=flat" alt="km1lo" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=km1lo&label=Profile%20views&color=0e75b6&style=flat" alt="km1lo" /> </p>-->
 
 
 
